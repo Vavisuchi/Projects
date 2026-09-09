@@ -1,5 +1,5 @@
 **The Core Business Question**
-"How can we leverage user-level session and transaction history to **build an RFM (Recency, Frequency, Monetary) segmentation model**, calculate historical Customer Lifetime Value (CLV), and **predict 12-month repeat-purchase probabilities** in order to optimize targeted retention marketing?"
+"How can we leverage user-level session and transaction history to **build an RFM (Recency, Frequency, Monetary) segmentation model**, calculate historical **Customer Lifetime Value (CLV)**, and **predict 12-month repeat-purchase probabilities** in order to optimize targeted retention marketing?"
 
 By framing the problem this way, we bridge the user session dataset you provided directly into the advanced analytics pipeline you outlined.
 
